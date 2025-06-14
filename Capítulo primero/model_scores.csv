@@ -1,0 +1,6 @@
+Model,Avg_Score
+deepseek/deepseek-chat-v3-0324,0.7277385507774539
+google/gemini-2.0-flash-001,0.6647784560252673
+meta-llama/llama-4-maverick,0.5722986516034986
+microsoft/phi-4-multimodal-instruct,0.21281280369290576
+openai/gpt-4o-mini,0.5608281705539359
