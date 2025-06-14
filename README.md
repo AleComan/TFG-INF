@@ -41,12 +41,11 @@ El trabajo se estructura en varias fases, cada una implementada en su propio blo
 
 ## 📂 Contenido del repositorio
 
-- `personajes/` → Scripts y datos de generación de personajes.
-- `biografias/` → Generación de biografías por modelo.
-- `metricas/` → Cálculo y análisis de sentimientos y objetividad.
-- `visualizaciones/` → Gráficos y figuras del estudio.
-- `datos/` → CSVs procesados.
-- `TFG.pdf` → Documento final del trabajo.
+- Scripts y datos de generación de personajes.
+- Generación de biografías por modelo.
+- Cálculo y análisis de sentimientos y objetividad.
+- Gráficos y figuras del estudio.
+- CSVs procesados.
 
 ---
 
